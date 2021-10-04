@@ -1,0 +1,5 @@
+---
+- name: Test playbook
+  hosts: localhost
+  roles:
+    - hello-world-with-module

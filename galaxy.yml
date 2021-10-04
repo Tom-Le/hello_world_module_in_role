@@ -1,0 +1,7 @@
+---
+namespace: leson_dev
+name: hello_world_module_in_role
+version: 0.0.1
+readme: README.md
+authors:
+  - "Son Le (@Tom-Le)"

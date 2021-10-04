@@ -1,0 +1,9 @@
+---
+- name: Say 'Hello friends!'
+  say_hello_world:
+    message: "Hello friends!"
+  register: hello
+
+- name: Print result
+  debug:
+    var: hello
