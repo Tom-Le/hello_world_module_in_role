@@ -1,6 +1,6 @@
 ---
 - name: Say 'Hello friends!'
-  say_hello_world:
+  leson_dev.hello_world_module_in_role.say_hello_world:
     message: "Hello friends!"
   register: hello
 
