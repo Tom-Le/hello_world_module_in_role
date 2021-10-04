@@ -1,0 +1,9 @@
+*.pyc
+*.retry
+
+# ignore virtual environments
+/.tox/
+/.venv/
+.python-version
+
+tests/logs/
